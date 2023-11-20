@@ -1,20 +1,3 @@
-
-# Uttara_FOP_Lab1
-<H2>Credential Generation Application.</H2>
-This is credential generation application for new hires in the company, implemented using concepts of foundations of java.
-<br>
-<br>
-This application has separate <b>CredentialService</b> which have following methods:
-<ul>
-<br><li>generatePassword</li>
-<br><li>generateEmailAddress</li>
-<br><li>showCredentials </li>
-</ul>
-<H6>Technology</H6>
-<b>Java</b>
-
-
-
 # G8_FOP_GradedProject1
 FOP-Graded Project1-Group 8 (IITR-FSD 2023 August Batch)
 <H2>Departmental Updates</H2>
